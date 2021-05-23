@@ -1,0 +1,54 @@
+.resimana {
+    height: 700px;
+}
+ .tarif{
+     height:300px;
+     width: 350px;
+ }
+ .kitap{
+     height: 400px;
+     width: 250px;
+ }
+ .film{
+     height: 400px;
+     width: 250px;
+ }
+.resimSlider {
+    height: 600px;
+}
+.miras{
+    height:300px;
+    width: 450px; 
+}
+.leblebi{
+    height:300px;
+    width: 450px; 
+}
+body{
+    padding-top: 50px;
+    background-color:white;
+    font-family: 'Kurale';
+}
+.hakkimda{
+    background-color: white;
+}
+
+table {
+
+    border-collapse: collapse;
+    width: 60%;
+
+}
+td, th {
+    border: 1px  solid #ddd;
+    padding: 10px;;
+}
+
+th {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+
+
+
